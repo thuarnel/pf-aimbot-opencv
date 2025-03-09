@@ -1,5 +1,6 @@
 Simple Computer Vision Phantom Forces Aimbot
 ~~https://www.youtube.com/watch?v=0yIvARnaXsw~~
+https://www.youtube.com/watch?v=L2Mgs4MtA0k (reupload)
 
 
 Required libraries: pywin32, numpy, opencv-python, mss
