@@ -1,6 +1,6 @@
 # Phantom Forces Aimbot with OpenCV
 
-[Watch the video](https://www.youtube.com/watch?v=0yIvARnaXsw) to learn more about this project.
+[Watch the video](https://www.youtube.com/watch?v=L2Mgs4MtA0k) to learn more about this project.
 
 ## Installation
 
@@ -8,7 +8,12 @@
 
 ```
 git clone https://github.com/thuarnel/pf-aimbot-opencv
+```
 
-Required libraries: pywin32 numpy opencv-python mss
+2. Install the dependencies (I recommend using a Python 3.10.11 virtual environment)
 
-To setup, place the photo of the enemy indicator in the same place as the python file, change the sensitivity vars to your liking and run it!
+```
+pip install -r requirements.txt
+```
+
+3. Run the script `main.py` and enjoy.
